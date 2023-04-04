@@ -1,0 +1,9 @@
+body {
+    background: #000 url(fonC.jpg); /* Фоновый цвет и фоновый рисунок*/
+    background-attachment: fixed; /* Фон страницы фиксируется */
+    background-repeat: repeat-x; /* Изображение повторяется по горизонтали */
+}
+
+h1, h2, h3, h4, p, li{
+    color: #fff;
+}
